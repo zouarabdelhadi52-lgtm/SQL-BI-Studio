@@ -1,0 +1,6 @@
+{
+  "name": "SQL BI Studio",
+  "description": "Plateforme de Business Intelligence indépendante en lecture seule pour SQL Server (2008 R2 à 2022) : détection automatique de schéma, tableaux de bord personnalisés, filtres dynamiques, exports Excel/PDF et gestion des accès.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
